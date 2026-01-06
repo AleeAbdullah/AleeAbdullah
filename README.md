@@ -141,7 +141,6 @@ Bash                       111 hrs 21 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 **📧 Contact Me:**
 - Email: ali.37803990@gmail.com
 - Website: [ali.scoopcodes.com](https://ali.scoopcodes.com)
-- Phone: +92-321-4614610
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>

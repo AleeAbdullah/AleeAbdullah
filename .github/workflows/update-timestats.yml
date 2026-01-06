@@ -16,7 +16,7 @@ jobs:
           COMMIT_USERNAME: "guilyx"
           COMMIT_EMAIL: "erwin.lejeune15@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"

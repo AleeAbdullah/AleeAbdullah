@@ -3,22 +3,35 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '30 14 * * *' # runs at every 12AM UTC
+    - cron: "30 14 * * *" # runs at every 12AM UTC
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: guilyx/waka-readme@master
+      - uses: actions/checkout@v4
+      
+      - name: Update README with WakaTime Simple Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SECTION_NAME: "waka-simple"
           COMMIT_MESSAGE: "Updated simple waka stats section"
-          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
           TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_TITLE: true
-    
+          SHOW_TITLE: false
+          SHOW_TIMEZONE: false
+          SHOW_PROJECTS: false
+          SHOW_LANGUAGE: true
+          SHOW_OS: false
+          SHOW_EDITORS: false
+          SHOW_LINES_OF_CODE: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_COMMIT: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LOC_CHART: false
+          SHOW_SHORT_INFO: false
+          LOCALE: en
+          SHOW_MASKED_TIME: false
