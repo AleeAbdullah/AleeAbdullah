@@ -9,9 +9,11 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Update README with WakaTime Simple Stats
         uses: anmol098/waka-readme-stats@master
         with:

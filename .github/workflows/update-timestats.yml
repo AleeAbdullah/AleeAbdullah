@@ -2,19 +2,22 @@ name: wakatime-stats
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: "0 12 * * *"
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: actions/checkout@v4
+      
+      - name: Update README with WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
-          COMMIT_USERNAME: "guilyx"
-          COMMIT_EMAIL: "erwin.lejeune15@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "False"
