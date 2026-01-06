@@ -63,8 +63,8 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-3689483576) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🎉 Merged PR [#22](https://github.com/JacopoPan/aerial-autonomy-stack/pull/22) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
+1. ❗ Opened issue [#6675](https://github.com/marcizhu/marcizhu/issues/6675) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. ❗ Opened issue [#43209](https://github.com/timburgan/timburgan/issues/43209) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 3. ❌ Closed PR [#1](https://github.com/guilyx/aerial-autonomy-stack/pull/1) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
 4. 💪 Opened PR [#1](https://github.com/guilyx/aerial-autonomy-stack/pull/1) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
 5. 🗣 Commented on [#22](https://github.com/JacopoPan/aerial-autonomy-stack/pull/22#issuecomment-3655059974) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
