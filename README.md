@@ -1,18 +1,18 @@
-[![Actions Status](https://github.com/YOUR_USERNAME/YOUR_USERNAME/workflows/wakatime-stats/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_USERNAME/actions)
-[![Actions Status](https://github.com/YOUR_USERNAME/YOUR_USERNAME/workflows/update-gh-activity/badge.svg)](https://github.com/YOUR_USERNAME/YOUR_USERNAME/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
+[![Actions Status](https://github.com/AleeAbdullah/AleeAbdullah/workflows/wakatime-stats/badge.svg)](https://github.com/AleeAbdullah/AleeAbdullah/actions)
+[![Actions Status](https://github.com/AleeAbdullah/AleeAbdullah/workflows/update-gh-activity/badge.svg)](https://github.com/AleeAbdullah/AleeAbdullah/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=AleeAbdullah.AleeAbdullah)
 
 <p align="center">
-  <img src="https://socialify.git.ci/YOUR_USERNAME/YOUR_USERNAME/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Ali Abdullah" width="700" height="300" />
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
+<p align="center">
+  <img src="https://socialify.git.ci/AleeAbdullah/AleeAbdullah/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Ali Abdullah" width="700" height="300" />
 </p>
 
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/aleeabdullah">
   <img alt="Ali Abdullah's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <a href="https://ali.scoopcodes.com">
@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AleeAbdullah&theme=onedark&column=-1" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark-dimmed&custom_title=Ali%20Abdullah%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AleeAbdullah&theme=github-dark-dimmed&custom_title=Ali%20Abdullah%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
 name: Ali Abdullah
