@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      read: user
     steps:
       - uses: actions/checkout@v4
 
@@ -18,11 +19,9 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SECTION_NAME: "waka-simple"
           COMMIT_MESSAGE: "Updated simple waka stats section"
-          TIME_RANGE: all_time
-          SHOW_TITLE: false
           SHOW_TIMEZONE: false
           SHOW_PROJECTS: false
           SHOW_LANGUAGE: true
@@ -36,4 +35,3 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_SHORT_INFO: false
           LOCALE: en
-          SHOW_MASKED_TIME: false

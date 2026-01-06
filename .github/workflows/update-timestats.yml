@@ -10,16 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      read: user
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Update README with WakaTime Stats
         uses: anmol098/waka-readme-stats@master
         with:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"
