@@ -71,29 +71,29 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C241%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.74%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.93%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 406.2 kB Used in GitHub's Storage 
+> 📦 277.0 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2026
+> 🏆 96 Contributions in the Year 2026
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 92 Public Repositories 
+> 📜 38 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1031 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Daytime                4547 commits        ██████████░░░░░░░░░░░░░░░   39.45 % 
-🌃 Evening                3933 commits        █████████░░░░░░░░░░░░░░░░   34.13 % 
-🌙 Night                  2014 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+🌞 Morning                239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+🌆 Daytime                1191 commits        ███████████░░░░░░░░░░░░░░   45.90 % 
+🌃 Evening                740 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+🌙 Night                  425 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 ```
 
 
@@ -103,39 +103,28 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
-YAML                     2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-TypeScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-SQL                      2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Bash                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-synod-agent              3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-synod                    3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-jinsen-finances          3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-synod-frontend           3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-synod-backend            2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/01/2026 13:02:18 UTC
+ Last Updated on 07/01/2026 15:51:25 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-From: 16 July 2020 - To: 04 January 2026
-
-Total Time: 2,237 hrs 44 mins
-
-C++                        737 hrs 5 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.94 %
-Python                     346 hrs 1 min   ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.46 %
-Go                         313 hrs 18 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.00 %
-C                          146 hrs 25 mins ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.54 %
-YAML                       119 hrs         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.32 %
-Bash                       111 hrs 21 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.98 %
+💬 Programming Languages: 
+No Activity Tracked This Week
 ```
 
+
+ Last Updated on 07/01/2026 15:52:40 UTC
 <!--END_SECTION:waka-simple-->
 
 **📧 Contact Me:**
