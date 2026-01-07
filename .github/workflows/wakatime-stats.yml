@@ -17,8 +17,7 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TITLE: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TIMEZONE: true
           SHOW_PROJECTS: true
           SHOW_LANGUAGE: true
@@ -31,6 +30,5 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_LOC_CHART: false
           SHOW_SHORT_INFO: true
+          SHOW_UPDATED_DATE: true
           LOCALE: en
-          TIME_RANGE: all_time
-          SHOW_MASKED_TIME: false
