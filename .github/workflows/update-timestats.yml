@@ -1,8 +1,9 @@
-name: wakatime-stats
+name: Update Time Stats
 
 on:
   schedule:
     - cron: "0 12 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
