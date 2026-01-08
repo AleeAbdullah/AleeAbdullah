@@ -63,7 +63,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -85,14 +85,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 hrs 13 mins      ███████████████████████░░   91.85 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pro-portal-fe            10 hrs 10 mins      ███████████████████████░░   91.26 % 
+portfolio                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+lybia                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+pro-portal-be            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 08/01/2026 19:25:37 UTC
+ Last Updated on 08/01/2026 20:32:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
