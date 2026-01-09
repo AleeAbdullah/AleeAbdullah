@@ -103,17 +103,21 @@ pro-portal-be            0 secs              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 hrs 13 mins      ███████████████████████░░   91.85 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
- Last Updated on 08/01/2026 14:52:29 UTC
+ Last Updated on 09/01/2026 14:50:02 UTC
 <!--END_SECTION:waka-simple-->
 
 **📧 Contact Me:**
