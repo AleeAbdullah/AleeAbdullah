@@ -56,7 +56,44 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2058%20mins-blue?style=flat)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.31%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 281.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 168 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+TypeScript               15 hrs 38 mins      ███████████████████████░░   91.17 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+
+🐱‍💻 Projects: 
+pro-portal-fe            13 hrs 29 mins      ████████████████████░░░░░   78.62 % 
+portfolio                1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+App                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+lybia                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+adminv2                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+```
+
+
+ Last Updated on 11/01/2026 20:40:40 UTC
 <!--END_SECTION:waka-->
 
 
