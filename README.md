@@ -55,45 +55,13 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6675](https://github.com/marcizhu/marcizhu/issues/6675) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. ❗ Opened issue [#43209](https://github.com/timburgan/timburgan/issues/43209) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❌ Closed PR [#1](https://github.com/guilyx/aerial-autonomy-stack/pull/1) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
-4. 💪 Opened PR [#1](https://github.com/guilyx/aerial-autonomy-stack/pull/1) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
-5. 🗣 Commented on [#22](https://github.com/JacopoPan/aerial-autonomy-stack/pull/22#issuecomment-3655059974) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
+
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.93%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 277.1 kB Used in GitHub's Storage 
- > 
-> 🏆 100 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-
- Last Updated on 07/01/2026 19:53:28 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 07/01/2026 15:52:40 UTC
-<!--END_SECTION:waka-simple-->
 
 **📧 Contact Me:**
 - Email: ali.37803990@gmail.com
