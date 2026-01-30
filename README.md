@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -72,6 +72,16 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6053 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+🌆 Daytime                40744 commits       ██████████████░░░░░░░░░░░   55.34 % 
+🌃 Evening                19166 commits       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+🌙 Night                  7662 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -91,7 +101,7 @@ pro-portal-be            17 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/01/2026 11:43:33 UTC
+ Last Updated on 30/01/2026 13:09:47 UTC
 <!--END_SECTION:waka-->
 
 
