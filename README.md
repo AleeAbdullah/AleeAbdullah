@@ -62,7 +62,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 **🐱 My GitHub Data** 
 
-> 📦 280.4 kB Used in GitHub's Storage 
+> 📦 280.3 kB Used in GitHub's Storage 
  > 
 > 🏆 326 Contributions in the Year 2026
  > 
@@ -72,6 +72,16 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6241 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+🌆 Daytime                41982 commits       ██████████████░░░░░░░░░░░   55.30 % 
+🌃 Evening                19768 commits       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+🌙 Night                  7923 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -91,7 +101,7 @@ pro-portal-be            26 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/01/2026 11:33:58 UTC
+ Last Updated on 31/01/2026 12:59:03 UTC
 <!--END_SECTION:waka-->
 
 
