@@ -96,6 +96,8 @@ adminv2                  14 mins             ░░░░░░░░░░░�
  Last Updated on 11/01/2026 20:40:40 UTC
 <!--END_SECTION:waka-->
 
+![My GitHub Game](game.gif)
+
 
 **📧 Contact Me:**
 - Email: ali.37803990@gmail.com
