@@ -56,21 +56,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2019%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.31%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.47%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 281.7 kB Used in GitHub's Storage 
+> 📦 280.4 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2026
+> 🏆 326 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               15 hrs 38 mins      ███████████████████████░░   91.17 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Git Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript               24 hrs 6 mins       ███████████████████░░░░░░   74.90 % 
+Bash                     2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            13 hrs 29 mins      ████████████████████░░░░░   78.62 % 
-portfolio                1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-App                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-lybia                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-adminv2                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+pro-portal-fe            17 hrs 57 mins      ██████████████░░░░░░░░░░░   55.83 % 
+lybia                    10 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   32.53 % 
+lybia-app                3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+pro-portal-be            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+App                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
- Last Updated on 11/01/2026 20:40:40 UTC
+ Last Updated on 02/02/2026 09:02:15 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
