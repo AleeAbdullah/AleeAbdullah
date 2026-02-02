@@ -56,15 +56,15 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 292.3 kB Used in GitHub's Storage 
  > 
-> 🏆 326 Contributions in the Year 2026
+> 🏆 333 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +93,7 @@ App                      8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/02/2026 11:06:21 UTC
+ Last Updated on 02/02/2026 11:48:39 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
