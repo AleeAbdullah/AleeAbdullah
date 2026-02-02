@@ -96,46 +96,6 @@ App                      8 mins              ░░░░░░░░░░░�
  Last Updated on 02/02/2026 09:02:15 UTC
 <!--END_SECTION:waka-->
 
-## gh-space-shooter 🚀
-
-Transform your GitHub contribution graph into an epic space shooter game!
-
-### Usage
-
-**One-time generation:** A web interface is available for on-demand GIF generation without installing anything locally.
-
-**GitHub Action:** The game GIF above is updated daily via [`.github/workflows/update-game.yml`](.github/workflows/update-game.yml) using [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter).
-
-| Input            | Description                                                      |
-| ---------------- | ---------------------------------------------------------------- |
-| `github-token`   | GitHub token for fetching contributions (required)               |
-| `username`       | Username to generate game for (defaults to repo owner)           |
-| `output-path`    | Where to save the GIF (default: `gh-space-shooter.gif`)          |
-| `strategy`       | Attack pattern: `column`, `row`, or `random` (default: `random`) |
-| `fps`            | Frames per second for the animation (default: 40)                |
-| `commit-message` | Commit message for the update                                    |
-
-### Install locally
-
-```bash
-# From PyPI
-pip install gh-space-shooter
-
-# From source
-git clone https://github.com/czl9707/gh-space-shooter.git
-cd gh-space-shooter
-uv sync   # or: pip install -e .
-```
-
-**Setup:** Create a [GitHub Personal Access Token](https://github.com/settings/tokens) with `read:user` scope, then:
-
-```bash
-export GH_TOKEN=your_token_here
-gh-space-shooter <username> -o game.gif -s random
-```
-
-**CLI options:** `--output` / `-o`, `--strategy` / `-s` (column | row | random), `--fps`, `--max-frame`, `--raw-output`, `--raw-input`.
-
 ![My GitHub Game](game.gif)
 
 
