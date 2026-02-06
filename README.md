@@ -72,6 +72,16 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7373 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+🌆 Daytime                50004 commits       ██████████████░░░░░░░░░░░   55.24 % 
+🌃 Evening                23780 commits       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+🌙 Night                  9358 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -93,7 +103,7 @@ github readme            10 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/02/2026 11:55:59 UTC
+ Last Updated on 06/02/2026 13:19:29 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
