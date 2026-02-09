@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.08%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,7 +64,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 > 📦 373.3 kB Used in GitHub's Storage 
  > 
-> 🏆 376 Contributions in the Year 2026
+> 🏆 379 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,22 +78,20 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               16 hrs 8 mins       ██████████████████████░░░   88.18 % 
-Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               11 hrs 52 mins      ███████████████████████░░   91.94 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            15 hrs 28 mins      █████████████████████░░░░   84.55 % 
-pro-portal-be            1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-lybia-app                1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-lybia                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-github readme            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+pro-portal-fe            11 hrs 12 mins      ██████████████████████░░░   86.78 % 
+lybia-app                1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+pro-portal-be            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 ```
 
 
- Last Updated on 09/02/2026 19:34:30 UTC
+ Last Updated on 09/02/2026 21:00:14 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
