@@ -56,13 +56,13 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 384.6 kB Used in GitHub's Storage 
+> 📦 396.2 kB Used in GitHub's Storage 
  > 
 > 🏆 385 Contributions in the Year 2026
  > 
@@ -91,7 +91,7 @@ pro-portal-be            34 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 10/02/2026 23:52:49 UTC
+ Last Updated on 11/02/2026 02:56:06 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
