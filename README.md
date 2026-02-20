@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,7 +93,7 @@ portfolio                5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/02/2026 10:05:12 UTC
+ Last Updated on 20/02/2026 10:56:44 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
