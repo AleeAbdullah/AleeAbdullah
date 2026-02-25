@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,7 +64,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 > 📦 569.6 kB Used in GitHub's Storage 
  > 
-> 🏆 488 Contributions in the Year 2026
+> 🏆 490 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,21 +78,19 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               21 hrs 56 mins      ███████████████████████░░   92.03 % 
-Python                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Makefile                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-HTML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+TypeScript               23 hrs 27 mins      ████████████████████████░   94.69 % 
+Makefile                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            22 hrs 15 mins      ███████████████████████░░   93.41 % 
-pro-portal-be            1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-lybia-app                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-lybia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+pro-portal-fe            23 hrs 46 mins      ████████████████████████░   95.99 % 
+pro-portal-be            59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 
- Last Updated on 25/02/2026 20:13:02 UTC
+ Last Updated on 25/02/2026 21:01:15 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
