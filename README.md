@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.10%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,19 +78,19 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               29 hrs 2 mins       ███████████████████████░░   93.71 % 
-Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Makefile                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               32 hrs 56 mins      ████████████████████████░   94.05 % 
+Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Makefile                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            29 hrs 12 mins      ████████████████████████░   94.28 % 
-pro-portal-be            1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+pro-portal-fe            33 hrs 9 mins       ████████████████████████░   94.65 % 
+pro-portal-be            1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 ```
 
 
- Last Updated on 27/02/2026 19:58:47 UTC
+ Last Updated on 27/02/2026 20:57:27 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
