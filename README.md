@@ -78,19 +78,19 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               26 hrs 52 mins      ███████████████████████░░   92.88 % 
-Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Makefile                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               22 hrs 28 mins      ████████████████████████░   94.35 % 
+Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            27 hrs 3 mins       ███████████████████████░░   93.52 % 
-pro-portal-be            1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+pro-portal-fe            22 hrs 39 mins      ████████████████████████░   95.13 % 
+pro-portal-be            1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 
 
- Last Updated on 03/03/2026 20:02:56 UTC
+ Last Updated on 03/03/2026 20:56:52 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
