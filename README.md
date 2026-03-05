@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,21 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               23 hrs 29 mins      ███████████████████████░░   93.82 % 
-Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               16 hrs 46 mins      ███████████████████████░░   91.28 % 
+Nginx configuration file 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            23 hrs 41 mins      ████████████████████████░   94.58 % 
-pro-portal-be            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-App                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-adminv2                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+pro-portal-fe            16 hrs 52 mins      ███████████████████████░░   91.81 % 
+cdn                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+App                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+adminv2                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+pro-portal-be            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
- Last Updated on 05/03/2026 20:20:02 UTC
+ Last Updated on 05/03/2026 21:01:42 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
