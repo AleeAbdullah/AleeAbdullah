@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               16 hrs 46 mins      ███████████████████████░░   91.28 % 
-Nginx configuration file 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript               9 hrs 24 mins       █████████████████░░░░░░░░   67.76 % 
+HTML                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Python                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Nginx configuration file 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            16 hrs 52 mins      ███████████████████████░░   91.81 % 
-cdn                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-App                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-adminv2                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-pro-portal-be            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+pro-portal-fe            9 hrs 27 mins       █████████████████░░░░░░░░   68.21 % 
+pro-portal-be            3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+cdn                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+App                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+adminv2                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
- Last Updated on 06/03/2026 20:03:05 UTC
+ Last Updated on 06/03/2026 20:59:53 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
