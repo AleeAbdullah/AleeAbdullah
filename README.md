@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-229%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       █████████████████░░░░░░░░   67.76 % 
-HTML                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Python                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Nginx configuration file 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+HTML                     9 hrs 49 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
+TypeScript               7 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
+CSS                      2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Python                   1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            9 hrs 27 mins       █████████████████░░░░░░░░   68.21 % 
-pro-portal-be            3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-cdn                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-App                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-adminv2                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+pro-portal-be            14 hrs 13 mins      ███████████████░░░░░░░░░░   61.13 % 
+pro-portal-fe            7 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+cdn                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+App                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+adminv2                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 
 
- Last Updated on 09/03/2026 20:06:01 UTC
+ Last Updated on 09/03/2026 21:00:39 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
