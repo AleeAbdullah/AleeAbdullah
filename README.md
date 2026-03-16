@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.15%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,21 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-HTML                     20 hrs 43 mins      ██████████████░░░░░░░░░░░   54.30 % 
-CSS                      7 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-TypeScript               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Python                   3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+HTML                     12 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.45 % 
+TypeScript               7 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+CSS                      5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Python                   3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🐱‍💻 Projects: 
-pro-portal-be            32 hrs 12 mins      █████████████████████░░░░   84.38 % 
-pro-portal-fe            5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-cdn                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-lybia-app                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+pro-portal-be            22 hrs 3 mins       ██████████████████░░░░░░░   71.63 % 
+pro-portal-fe            8 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+cdn                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+lybia-app                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 
 
- Last Updated on 16/03/2026 19:34:32 UTC
+ Last Updated on 16/03/2026 21:10:16 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
