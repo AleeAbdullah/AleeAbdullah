@@ -72,6 +72,16 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16303 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+🌆 Daytime                114339 commits      ██████████████░░░░░░░░░░░   54.03 % 
+🌃 Evening                58659 commits       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+🌙 Night                  22315 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -92,7 +102,7 @@ lybia-app                7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/03/2026 12:15:15 UTC
+ Last Updated on 16/03/2026 13:41:17 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
