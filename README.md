@@ -56,15 +56,15 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 832.0 kB Used in GitHub's Storage 
  > 
-> 🏆 562 Contributions in the Year 2026
+> 🏆 565 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,21 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               11 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   38.85 % 
-HTML                     9 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-CSS                      3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Python                   2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+TypeScript               16 hrs 16 mins      ██████████████████░░░░░░░   71.06 % 
+HTML                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Nginx configuration file 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-pro-portal-be            16 hrs 1 min        ██████████████░░░░░░░░░░░   54.85 % 
-pro-portal-fe            12 hrs 42 mins      ███████████░░░░░░░░░░░░░░   43.51 % 
-cdn                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-acoopcodes               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+pro-portal-fe            17 hrs 38 mins      ███████████████████░░░░░░   76.98 % 
+pro-portal-be            4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+cdn                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+acoopcodes               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 
- Last Updated on 18/03/2026 19:40:51 UTC
+ Last Updated on 18/03/2026 21:06:48 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
