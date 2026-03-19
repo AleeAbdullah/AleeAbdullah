@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.57%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,21 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               16 hrs 16 mins      ██████████████████░░░░░░░   71.06 % 
-HTML                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Nginx configuration file 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+TypeScript               18 hrs 35 mins      █████████████████████░░░░   85.16 % 
+Python                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Nginx configuration file 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            17 hrs 38 mins      ███████████████████░░░░░░   76.98 % 
-pro-portal-be            4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-cdn                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-acoopcodes               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+pro-portal-fe            19 hrs 8 mins       ██████████████████████░░░   87.73 % 
+pro-portal-be            2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+cdn                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+acoopcodes               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
- Last Updated on 19/03/2026 19:38:23 UTC
+ Last Updated on 19/03/2026 21:14:14 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
