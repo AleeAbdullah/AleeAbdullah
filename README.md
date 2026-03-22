@@ -78,22 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               14 hrs 43 mins      ████████████████████░░░░░   80.45 % 
-Python                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Nginx configuration file 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               14 hrs 43 mins      ████████████████████░░░░░   81.77 % 
+Python                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            15 hrs 3 mins       █████████████████████░░░░   82.25 % 
-pro-portal-be            2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-routemate                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-cdn                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-acoopcodes               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+pro-portal-fe            15 hrs 3 mins       █████████████████████░░░░   83.60 % 
+pro-portal-be            2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+routemate                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+acoopcodes               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
- Last Updated on 22/03/2026 19:54:18 UTC
+ Last Updated on 22/03/2026 21:00:40 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
