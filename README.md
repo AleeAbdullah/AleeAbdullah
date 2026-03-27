@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,21 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               12 hrs 5 mins       ████████████████████░░░░░   79.65 % 
-HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript               15 hrs 53 mins      ████████████████████░░░░░   80.41 % 
+HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            11 hrs 54 mins      ████████████████████░░░░░   78.44 % 
-pro-portal-be            2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-routemate                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Brava                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+pro-portal-fe            16 hrs 5 mins       ████████████████████░░░░░   81.38 % 
+pro-portal-be            2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+routemate                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Brava                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 
- Last Updated on 27/03/2026 19:28:13 UTC
+ Last Updated on 27/03/2026 21:11:48 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
