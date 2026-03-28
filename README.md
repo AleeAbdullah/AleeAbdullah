@@ -58,11 +58,11 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.41%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 945.5 kB Used in GitHub's Storage 
+> 📦 958.5 kB Used in GitHub's Storage 
  > 
 > 🏆 634 Contributions in the Year 2026
  > 
@@ -92,7 +92,7 @@ Brava                    11 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/03/2026 00:02:41 UTC
+ Last Updated on 28/03/2026 02:59:23 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
