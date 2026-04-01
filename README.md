@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,21 +78,20 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               20 hrs 2 mins       ████████████████████░░░░░   81.32 % 
-Python                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-HTML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+TypeScript               23 hrs 22 mins      █████████████████████░░░░   83.50 % 
+Python                   3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            20 hrs 17 mins      █████████████████████░░░░   82.35 % 
-pro-portal-be            3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-flowdexMVP               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Brava                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+pro-portal-fe            23 hrs 38 mins      █████████████████████░░░░   84.42 % 
+pro-portal-be            3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+flowdexMVP               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
- Last Updated on 01/04/2026 20:15:00 UTC
+ Last Updated on 01/04/2026 21:52:13 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
