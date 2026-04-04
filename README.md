@@ -72,16 +72,6 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                21411 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Daytime                148989 commits      █████████████░░░░░░░░░░░░   53.78 % 
-🌃 Evening                76830 commits       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-🌙 Night                  29821 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -101,7 +91,7 @@ flowdexMVP               2 hrs 19 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 04/04/2026 13:33:55 UTC
+ Last Updated on 04/04/2026 15:08:27 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
