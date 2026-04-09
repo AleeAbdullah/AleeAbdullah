@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,21 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               28 hrs 10 mins      ██████████████████░░░░░░░   73.04 % 
-Other                    8 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               22 hrs 48 mins      ████████████████░░░░░░░░░   63.78 % 
+Other                    11 hrs              ████████░░░░░░░░░░░░░░░░░   30.80 % 
+JavaScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            31 hrs 36 mins      ████████████████████░░░░░   81.93 % 
-flowdexMVP               5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-pro-portal-be            57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-projects                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+pro-portal-fe            27 hrs 11 mins      ███████████████████░░░░░░   76.03 % 
+flowdexMVP               6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+pro-portal-be            1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+projects                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 
- Last Updated on 09/04/2026 20:32:44 UTC
+ Last Updated on 09/04/2026 22:14:17 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
