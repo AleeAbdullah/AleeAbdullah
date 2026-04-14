@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2034%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,20 +78,20 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               19 hrs 57 mins      ████████████████░░░░░░░░░   65.04 % 
-Other                    9 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TypeScript               17 hrs 30 mins      ████████████████░░░░░░░░░   63.09 % 
+Other                    9 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
+JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            25 hrs 39 mins      █████████████████████░░░░   83.58 % 
-flowdexMVP               3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-pro-portal-be            1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+pro-portal-fe            22 hrs 54 mins      █████████████████████░░░░   82.57 % 
+flowdexMVP               4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+pro-portal-be            42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
- Last Updated on 14/04/2026 20:37:59 UTC
+ Last Updated on 14/04/2026 22:14:28 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
