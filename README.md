@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.91%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,21 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               25 hrs 4 mins       ██████████████████░░░░░░░   71.10 % 
-Other                    9 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
-Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Git                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+TypeScript               28 hrs 9 mins       ██████████████████░░░░░░░   72.94 % 
+Other                    9 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Markdown                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Git                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            29 hrs 42 mins      █████████████████████░░░░   84.22 % 
-portfolio                3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-flowdexMVP               1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+pro-portal-fe            33 hrs 45 mins      ██████████████████████░░░   87.44 % 
+portfolio                3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+flowdexMVP               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
- Last Updated on 18/04/2026 19:58:10 UTC
+ Last Updated on 18/04/2026 21:27:43 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
