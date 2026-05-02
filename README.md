@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               33 hrs 23 mins      ██████████████████░░░░░░░   70.60 % 
-Other                    10 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               34 hrs 26 mins      ██████████████████░░░░░░░   72.91 % 
+Other                    10 hrs              █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 Python                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 Text                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            33 hrs 15 mins      ██████████████████░░░░░░░   70.33 % 
-flowdexMVP               12 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+pro-portal-fe            33 hrs 15 mins      ██████████████████░░░░░░░   70.42 % 
+flowdexMVP               11 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
 pro-portal-be            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Scoopcodes               53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 pro-portal-fe copy       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-alee                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
- Last Updated on 02/05/2026 20:21:37 UTC
+ Last Updated on 02/05/2026 22:02:53 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
