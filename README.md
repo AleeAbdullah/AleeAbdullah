@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               34 hrs 26 mins      ██████████████████░░░░░░░   72.91 % 
-Other                    10 hrs              █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Python                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Text                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript               35 hrs 48 mins      ██████████████████░░░░░░░   73.43 % 
+Other                    9 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Python                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Text                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            33 hrs 15 mins      ██████████████████░░░░░░░   70.42 % 
-flowdexMVP               11 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-pro-portal-be            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Scoopcodes               53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-pro-portal-fe copy       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+pro-portal-fe            33 hrs 15 mins      █████████████████░░░░░░░░   68.20 % 
+flowdexMVP               12 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Scoopcodes               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+pro-portal-be            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+pro-portal-fe copy       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
- Last Updated on 03/05/2026 20:11:55 UTC
+ Last Updated on 03/05/2026 22:06:38 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
