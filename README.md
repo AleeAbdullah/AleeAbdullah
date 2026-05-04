@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               35 hrs 48 mins      ██████████████████░░░░░░░   73.43 % 
-Other                    9 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Python                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Text                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               30 hrs 50 mins      █████████████████░░░░░░░░   66.86 % 
+Other                    10 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+JSON                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Python                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            33 hrs 15 mins      █████████████████░░░░░░░░   68.20 % 
-flowdexMVP               12 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Scoopcodes               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-pro-portal-be            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-pro-portal-fe copy       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+pro-portal-fe            27 hrs 44 mins      ███████████████░░░░░░░░░░   60.16 % 
+flowdexMVP               12 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+routemate                1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Scoopcodes               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+portfolio                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
 
- Last Updated on 04/05/2026 21:48:04 UTC
+ Last Updated on 04/05/2026 23:32:02 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
