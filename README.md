@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142.78%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               26 hrs 37 mins      ████████████████░░░░░░░░░   62.98 % 
-Other                    9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Markdown                 1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Bash                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               25 hrs 50 mins      ████████████████░░░░░░░░░   64.14 % 
+Other                    9 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Bash                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            18 hrs 56 mins      ███████████░░░░░░░░░░░░░░   44.79 % 
-flowdexMVP               11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-routemate                5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-zedo                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Scoopcodes               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+pro-portal-fe            22 hrs 56 mins      ██████████████░░░░░░░░░░░   56.96 % 
+routemate                5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+flowdexMVP               5 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+zedo                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Scoopcodes               1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
 
- Last Updated on 08/05/2026 20:51:45 UTC
+ Last Updated on 08/05/2026 22:41:19 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
