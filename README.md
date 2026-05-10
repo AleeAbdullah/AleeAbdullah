@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2012%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-143.28%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               24 hrs 56 mins      ███████████████░░░░░░░░░░   61.49 % 
-Other                    10 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Bash                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+TypeScript               25 hrs 59 mins      ███████████████░░░░░░░░░░   61.87 % 
+Other                    11 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Bash                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            23 hrs 59 mins      ███████████████░░░░░░░░░░   59.12 % 
-routemate                6 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-flowdexMVP               3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-zedo                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-pro-portal-be            1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+pro-portal-fe            27 hrs 33 mins      ████████████████░░░░░░░░░   65.62 % 
+routemate                6 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+zedo                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+flowdexMVP               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+pro-portal-be            1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 
- Last Updated on 10/05/2026 19:20:35 UTC
+ Last Updated on 10/05/2026 22:19:26 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
