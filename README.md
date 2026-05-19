@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -72,27 +72,8 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 15 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-TypeScript               23 hrs 2 mins       █████████████████░░░░░░░░   67.17 % 
-Other                    9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Python                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-
-🐱‍💻 Projects: 
-pro-portal-fe            27 hrs 3 mins       ████████████████████░░░░░   78.88 % 
-flowdexMVP               6 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-pro-portal-be            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-pro printer hadi         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-```
-
-
- Last Updated on 19/05/2026 21:08:39 UTC
+ Last Updated on 19/05/2026 23:12:43 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
