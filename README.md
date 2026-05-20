@@ -72,8 +72,27 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 15 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 19/05/2026 23:12:43 UTC
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+TypeScript               33 hrs 22 mins      ███████████████████████░░   90.11 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Markdown                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+
+🐱‍💻 Projects: 
+pro-portal-fe            31 hrs 20 mins      █████████████████████░░░░   84.64 % 
+flowdexMVP               4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+pro-portal-be            51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+pro printer hadi         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+```
+
+
+ Last Updated on 20/05/2026 05:46:54 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
