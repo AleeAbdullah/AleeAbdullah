@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               29 hrs 15 mins      █████████████████████░░░░   85.21 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+TypeScript               24 hrs 57 mins      ██████████████████████░░░   88.01 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TSConfig                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            28 hrs 39 mins      █████████████████████░░░░   83.46 % 
-flowdexMVP               4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-pro-portal-be            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-pro printer hadi         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+pro-portal-fe            27 hrs              ████████████████████████░   95.25 % 
+pro-portal-be            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+pro printer hadi         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+flowdexMVP               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 21/05/2026 20:58:34 UTC
+ Last Updated on 22/05/2026 00:11:23 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
