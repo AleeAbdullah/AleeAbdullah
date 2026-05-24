@@ -56,6 +56,8 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2044%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-176.72%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -76,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               23 hrs 9 mins       ██████████████████████░░░   86.80 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-TSConfig                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+TypeScript               19 hrs 12 mins      █████████████████████░░░░   84.50 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TSConfig                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            25 hrs 19 mins      ████████████████████████░   94.92 % 
-pro-portal-be            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-pro printer hadi         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-flowdexMVP               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+pro-portal-fe            21 hrs 22 mins      ████████████████████████░   94.03 % 
+pro-portal-be            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+pro printer hadi         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+flowdexMVP               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 23/05/2026 22:37:00 UTC
+ Last Updated on 24/05/2026 01:35:39 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
