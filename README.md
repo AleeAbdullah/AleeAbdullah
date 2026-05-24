@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-176.72%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               19 hrs 12 mins      █████████████████████░░░░   84.50 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-TSConfig                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript               20 hrs 58 mins      ████████████████████░░░░░   79.51 % 
+Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            21 hrs 22 mins      ████████████████████████░   94.03 % 
-pro-portal-be            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-pro printer hadi         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-flowdexMVP               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+pro-portal-fe            21 hrs 22 mins      ████████████████████░░░░░   81.03 % 
+flowdexMVP               3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+pro-portal-be            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+pro printer hadi         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 24/05/2026 19:47:37 UTC
+ Last Updated on 24/05/2026 22:45:28 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
