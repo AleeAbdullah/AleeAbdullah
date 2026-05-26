@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -64,7 +64,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,033 Contributions in the Year 2026
+> 🏆 1,038 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,22 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               20 hrs 58 mins      ████████████████████░░░░░   79.51 % 
-Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TypeScript               19 hrs 23 mins      ████████████████████░░░░░   79.13 % 
+Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            21 hrs 22 mins      ████████████████████░░░░░   81.03 % 
-flowdexMVP               3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-pro-portal-be            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-pro printer hadi         27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+pro-portal-fe            19 hrs 32 mins      ████████████████████░░░░░   79.72 % 
+flowdexMVP               4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+pro-portal-be            24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 25/05/2026 21:39:13 UTC
+ Last Updated on 26/05/2026 00:58:55 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
