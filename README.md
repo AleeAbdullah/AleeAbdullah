@@ -58,7 +58,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -92,7 +92,7 @@ next-devtools-help-me-upg1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/05/2026 17:53:02 UTC
+ Last Updated on 26/05/2026 20:36:21 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
