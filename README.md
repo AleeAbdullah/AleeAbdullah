@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,21 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               19 hrs 23 mins      ████████████████████░░░░░   79.13 % 
-Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+TypeScript               16 hrs 27 mins      ███████████████████░░░░░░   75.07 % 
+Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Other                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            19 hrs 32 mins      ████████████████████░░░░░   79.72 % 
-flowdexMVP               4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-pro-portal-be            24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+pro-portal-fe            15 hrs 41 mins      ██████████████████░░░░░░░   71.62 % 
+flowdexMVP               5 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+pro-portal-be            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+next-devtools-help-me-upg1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 
- Last Updated on 26/05/2026 22:56:13 UTC
+ Last Updated on 27/05/2026 02:03:07 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
