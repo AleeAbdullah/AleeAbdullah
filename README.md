@@ -56,8 +56,6 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%201%20min-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177.87%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -72,36 +70,8 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                35666 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Daytime                243627 commits      █████████████░░░░░░░░░░░░   52.77 % 
-🌃 Evening                128602 commits      ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌙 Night                  53761 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-TypeScript               16 hrs 19 mins      ████████████████████░░░░░   80.43 % 
-Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-
-🐱‍💻 Projects: 
-pro-portal-fe            14 hrs 5 mins       █████████████████░░░░░░░░   69.49 % 
-flowdexMVP               5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-pro-portal-be            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-```
-
-
- Last Updated on 28/05/2026 18:10:28 UTC
+ Last Updated on 28/05/2026 21:47:05 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
