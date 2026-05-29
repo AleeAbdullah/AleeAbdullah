@@ -78,20 +78,20 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               14 hrs 26 mins      ████████████████████░░░░░   79.25 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               10 hrs 28 mins      ███████████████████░░░░░░   74.65 % 
+Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            12 hrs 5 mins       █████████████████░░░░░░░░   66.35 % 
-flowdexMVP               5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
-pro-portal-be            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+pro-portal-fe            8 hrs               ██████████████░░░░░░░░░░░   57.08 % 
+flowdexMVP               5 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
+pro-portal-be            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
 
- Last Updated on 29/05/2026 21:24:32 UTC
+ Last Updated on 29/05/2026 23:39:49 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
