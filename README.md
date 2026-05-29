@@ -72,16 +72,6 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                35666 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-🌆 Daytime                243627 commits      █████████████░░░░░░░░░░░░   52.77 % 
-🌃 Evening                128602 commits      ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌙 Night                  53761 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -101,7 +91,7 @@ pro-portal-be            29 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/05/2026 17:54:10 UTC
+ Last Updated on 29/05/2026 21:24:32 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
