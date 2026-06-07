@@ -56,7 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-170.72%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2021%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               20 hrs 20 mins      ████████████████████░░░░░   79.86 % 
-Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Python                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+TypeScript               20 hrs 36 mins      ████████████████████░░░░░   80.07 % 
+Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Python                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            20 hrs 27 mins      ████████████████████░░░░░   80.37 % 
-SiteModifier             3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-pro-portal-be            1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-i-need-to-host-n8n-locall13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-flowdexMVP               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+pro-portal-fe            20 hrs 43 mins      ████████████████████░░░░░   80.57 % 
+SiteModifier             3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+pro-portal-be            1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+i-need-to-host-n8n-locall13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+flowdexMVP               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
- Last Updated on 07/06/2026 21:05:32 UTC
+ Last Updated on 07/06/2026 22:55:20 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
