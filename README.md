@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-185.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               23 hrs 10 mins      ████████████████████░░░░░   80.31 % 
-Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Python                   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               21 hrs 14 mins      ████████████████████░░░░░   78.04 % 
+Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Python                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            23 hrs 29 mins      ████████████████████░░░░░   81.39 % 
-SiteModifier             3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-pro-portal-be            1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-i-need-to-host-n8n-locall13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+pro-portal-fe            21 hrs 42 mins      ████████████████████░░░░░   79.78 % 
+SiteModifier             3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+pro-portal-be            1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+i-need-to-host-n8n-locall12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 09/06/2026 22:50:35 UTC
+ Last Updated on 10/06/2026 01:09:27 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
