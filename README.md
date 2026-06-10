@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-186.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,20 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               21 hrs 14 mins      ████████████████████░░░░░   78.04 % 
-Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Python                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TypeScript               22 hrs 44 mins      ███████████████████░░░░░░   77.08 % 
+Python                   3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            21 hrs 42 mins      ████████████████████░░░░░   79.78 % 
-SiteModifier             3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-pro-portal-be            1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-i-need-to-host-n8n-locall12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+pro-portal-fe            23 hrs 20 mins      ████████████████████░░░░░   79.12 % 
+pro-portal-be            4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+SiteModifier             1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 
 
- Last Updated on 10/06/2026 21:28:30 UTC
+ Last Updated on 10/06/2026 23:57:35 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
