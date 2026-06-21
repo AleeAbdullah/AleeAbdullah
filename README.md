@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-205.89%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               35 hrs 47 mins      ████████████████████░░░░░   79.43 % 
-Python                   4 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Markdown                 2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-TOML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript               34 hrs 45 mins      ████████████████████░░░░░   78.89 % 
+Python                   4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Markdown                 2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+TOML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            35 hrs 10 mins      ████████████████████░░░░░   78.05 % 
-pro-portal-be            4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-flowdexMVP               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-resumes                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-CaputeAiClasic           1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+pro-portal-fe            34 hrs 5 mins       ███████████████████░░░░░░   77.36 % 
+pro-portal-be            4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+flowdexMVP               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+resumes                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+CaputeAiClasic           1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
- Last Updated on 20/06/2026 22:19:11 UTC
+ Last Updated on 21/06/2026 02:12:45 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
