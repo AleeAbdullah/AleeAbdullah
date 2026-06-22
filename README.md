@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               34 hrs 45 mins      ████████████████████░░░░░   78.89 % 
-Python                   4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Markdown                 2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-TOML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               33 hrs 48 mins      ████████████████████░░░░░   79.15 % 
+Python                   4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Markdown                 1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TOML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            34 hrs 5 mins       ███████████████████░░░░░░   77.36 % 
-pro-portal-be            4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-flowdexMVP               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-resumes                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-CaputeAiClasic           1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+pro-portal-fe            33 hrs 6 mins       ███████████████████░░░░░░   77.52 % 
+pro-portal-be            4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+flowdexMVP               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+CaputeAiClasic           1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+routemate                51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 
- Last Updated on 21/06/2026 21:49:16 UTC
+ Last Updated on 22/06/2026 01:23:30 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
