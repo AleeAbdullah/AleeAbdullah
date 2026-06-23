@@ -58,7 +58,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-222.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,7 +93,7 @@ CaputeAiClasic           1 hr 6 mins         █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/06/2026 17:11:55 UTC
+ Last Updated on 23/06/2026 20:34:34 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
