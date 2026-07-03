@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-185.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184.05%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               40 hrs 4 mins       ███████████████████████░░   90.39 % 
-Markdown                 2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Other                    46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript               45 hrs 57 mins      ██████████████████████░░░   89.95 % 
+Markdown                 3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Other                    49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            35 hrs 40 mins      ████████████████████░░░░░   80.50 % 
-flowdexMVP               6 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-plans                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-pro-portal-be            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-set-up-an-automation-that14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+pro-portal-fe            43 hrs 51 mins      █████████████████████░░░░   85.83 % 
+flowdexMVP               5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+plans                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+pro-portal-be            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+set-up-an-automation-that14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
- Last Updated on 03/07/2026 20:23:00 UTC
+ Last Updated on 03/07/2026 21:53:14 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
