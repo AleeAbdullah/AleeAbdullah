@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243.81%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               58 hrs 56 mins      ███████████████████████░░   90.33 % 
-Markdown                 4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Other                    37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               61 hrs 47 mins      ███████████████████████░░   90.25 % 
+Markdown                 4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            61 hrs 50 mins      ████████████████████████░   94.77 % 
-flowdexMVP               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-pro-portal-be            38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-plans                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-set-up-an-automation-that14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+pro-portal-fe            64 hrs 8 mins       ███████████████████████░░   93.69 % 
+flowdexMVP               2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+pro-portal-be            1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+plans                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+verification-before-compl4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 06/07/2026 21:51:27 UTC
+ Last Updated on 06/07/2026 23:45:28 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
