@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-849%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-247.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,22 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               57 hrs 1 min        ██████████████████████░░░   86.71 % 
-Markdown                 4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Python                   1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Other                    59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               53 hrs 48 mins      █████████████████████░░░░   85.87 % 
+Markdown                 4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Python                   2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Other                    57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            58 hrs 21 mins      ██████████████████████░░░   88.73 % 
-flowdexMVP               3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-pro-portal-be            2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-plans                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-terminals                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+pro-portal-fe            54 hrs 39 mins      ██████████████████████░░░   87.22 % 
+pro-portal-be            3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+flowdexMVP               3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+plans                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 08/07/2026 21:28:02 UTC
+ Last Updated on 09/07/2026 01:11:04 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
