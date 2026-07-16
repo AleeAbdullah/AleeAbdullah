@@ -56,7 +56,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-252.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,21 +78,21 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               41 hrs 32 mins      ████████████████████░░░░░   78.36 % 
-Markdown                 4 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Python                   2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-JSON                     2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Other                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               39 hrs 45 mins      ███████████████████░░░░░░   76.58 % 
+Markdown                 5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+JSON                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Python                   2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            38 hrs 44 mins      ██████████████████░░░░░░░   73.09 % 
-flowdexMVP               10 hrs 18 mins      █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-pro-portal-be            3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-plans                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+pro-portal-fe            36 hrs 35 mins      ██████████████████░░░░░░░   70.48 % 
+flowdexMVP               11 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+pro-portal-be            3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+memories                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 15/07/2026 21:23:59 UTC
+ Last Updated on 16/07/2026 01:05:41 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
