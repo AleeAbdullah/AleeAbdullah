@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-241.93%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-257.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,21 +78,22 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               39 hrs              ███████████████████░░░░░░   77.49 % 
-Markdown                 6 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Python                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TypeScript               36 hrs 37 mins      ███████████████████░░░░░░   76.96 % 
+Markdown                 6 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Python                   1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            37 hrs 11 mins      ██████████████████░░░░░░░   73.87 % 
-flowdexMVP               9 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-pro-portal-be            3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+pro-portal-fe            34 hrs 32 mins      ██████████████████░░░░░░░   72.56 % 
+flowdexMVP               9 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+pro-portal-be            3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+resumes                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 memories                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 19/07/2026 19:54:36 UTC
+ Last Updated on 19/07/2026 22:51:14 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
