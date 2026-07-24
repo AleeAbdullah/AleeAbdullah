@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-266.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -78,8 +78,8 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               15 hrs 22 mins      ███████████████████░░░░░░   75.66 % 
-Other                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+TypeScript               15 hrs 22 mins      ███████████████████░░░░░░   75.68 % 
+Other                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 Python                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
@@ -93,7 +93,7 @@ resumes                  19 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/07/2026 23:38:56 UTC
+ Last Updated on 24/07/2026 01:31:43 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
