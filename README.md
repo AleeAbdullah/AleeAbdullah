@@ -56,15 +56,17 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-891%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-271.74%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-499%20hrs%2050%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-272.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,416 Contributions in the Year 2026
+> 🏆 1,417 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,8 +94,30 @@ truck                    39 mins             █░░░░░░░░░░�
 leavesandlines           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:58:28 UTC
+```text
+⏱ AI Coding Time: 14 hrs 47 mins (88.83%)
+
+✍️ 9,702 lines written by AI, 66 lines written by hand (99.32% AI-written)
+
+🔤 204,872,212 Input Tokens, 863,177 Output Tokens
+
+💵 $1066.49 Estimated AI Cost This Week
+
+🧠 43 AI Sessions, 244 AI Prompts
+
+GPT                      11,497 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.32% of written lines came from AI
+📝 Concise Prompter — average 265 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.67% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 18:47:13 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
