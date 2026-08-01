@@ -56,11 +56,11 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-513%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-513%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,45 +80,45 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               13 hrs 9 mins       ███████████████████░░░░░░   75.77 % 
-Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TypeScript               13 hrs 13 mins      ███████████████████░░░░░░   75.85 % 
+Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            13 hrs 2 mins       ███████████████████░░░░░░   75.10 % 
-splitwise-clone          1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-ai playground            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-leavesandlines           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-pro-portal-be            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+pro-portal-fe            13 hrs 2 mins       ███████████████████░░░░░░   74.85 % 
+splitwise-clone          1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+ai playground            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+leavesandlines           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+pro-portal-be            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 26 mins (88.93%)
+⏱ AI Coding Time: 15 hrs 30 mins (88.97%)
 
-✍️ 13,927 lines written by AI, 111 lines written by hand (99.21% AI-written)
+✍️ 14,353 lines written by AI, 111 lines written by hand (99.23% AI-written)
 
-🔤 250,771,312 Input Tokens, 1,138,372 Output Tokens
+🔤 251,814,074 Input Tokens, 1,148,602 Output Tokens
 
-💵 $1270.78 Estimated AI Cost This Week
+💵 $1276.30 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 281 AI Prompts
+🧠 54 AI Sessions, 283 AI Prompts
 
-GPT                      13,324 lines        ██████████████████████░░░   88.65 % 
-Opus                     1,706 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+GPT                      13,750 lines        ██████████████████████░░░   88.96 % 
+Opus                     1,706 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.21% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
+🤖 AI-Driven — 99.23% of written lines came from AI
+📝 Concise Prompter — average 218 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.73% of changed lines were hand-edited
+🚀 High AI Trust — 3.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 21:38:32 UTC
+ Last Updated on 01/08/2026 22:03:20 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
