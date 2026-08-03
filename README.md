@@ -56,11 +56,11 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-513%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-515%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-275.40%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,45 +80,45 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               13 hrs 13 mins      ███████████████████░░░░░░   75.85 % 
-Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+TypeScript               13 hrs 11 mins      ██████████████████░░░░░░░   72.25 % 
+Markdown                 2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            13 hrs 2 mins       ███████████████████░░░░░░   74.85 % 
-splitwise-clone          1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-ai playground            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-leavesandlines           33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-pro-portal-be            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+pro-portal-fe            13 hrs 1 min        ██████████████████░░░░░░░   71.30 % 
+splitwise-clone          2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+hissab                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+ai playground            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+pro-portal-be            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 30 mins (88.97%)
+⏱ AI Coding Time: 16 hrs 12 mins (88.78%)
 
-✍️ 14,353 lines written by AI, 111 lines written by hand (99.23% AI-written)
+✍️ 17,675 lines written by AI, 111 lines written by hand (99.38% AI-written)
 
-🔤 251,814,074 Input Tokens, 1,148,602 Output Tokens
+🔤 263,178,763 Input Tokens, 1,252,434 Output Tokens
 
-💵 $1276.30 Estimated AI Cost This Week
+💵 $1350.26 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 283 AI Prompts
+🧠 56 AI Sessions, 283 AI Prompts
 
-GPT                      13,750 lines        ██████████████████████░░░   88.96 % 
-Opus                     1,706 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+GPT                      16,401 lines        ██████████████████████░░░   87.42 % 
+Opus                     2,361 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.23% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
+🤖 AI-Driven — 99.38% of written lines came from AI
+📝 Concise Prompter — average 255 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.63% of changed lines were hand-edited
+🚀 High AI Trust — 2.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 21:37:04 UTC
+ Last Updated on 03/08/2026 00:26:41 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
