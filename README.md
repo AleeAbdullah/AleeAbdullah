@@ -64,9 +64,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 **🐱 My GitHub Data** 
 
-> 📦 2.6 MB Used in GitHub's Storage 
+> 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,453 Contributions in the Year 2026
+> 🏆 1,455 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,45 +80,45 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               13 hrs 11 mins      ██████████████████░░░░░░░   72.25 % 
-Markdown                 2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript               12 hrs 53 mins      ██████████████░░░░░░░░░░░   57.87 % 
+Markdown                 4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Other                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+HTML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            13 hrs 1 min        ██████████████████░░░░░░░   71.30 % 
-splitwise-clone          2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-hissab                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-ai playground            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-pro-portal-be            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+pro-portal-fe            12 hrs 44 mins      ██████████████░░░░░░░░░░░   57.24 % 
+hissab                   3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+splitwise-clone          2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+_build                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+ai playground            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 12 mins (88.78%)
+⏱ AI Coding Time: 19 hrs 54 mins (89.38%)
 
-✍️ 17,675 lines written by AI, 111 lines written by hand (99.38% AI-written)
+✍️ 29,646 lines written by AI, 182 lines written by hand (99.39% AI-written)
 
-🔤 263,178,763 Input Tokens, 1,252,434 Output Tokens
+🔤 364,019,546 Input Tokens, 1,877,867 Output Tokens
 
-💵 $1350.26 Estimated AI Cost This Week
+💵 $1859.12 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 283 AI Prompts
+🧠 76 AI Sessions, 314 AI Prompts
 
-GPT                      16,401 lines        ██████████████████████░░░   87.42 % 
-Opus                     2,361 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+GPT                      19,776 lines        ████████████████░░░░░░░░░   64.67 % 
+Opus                     10,806 lines        █████████░░░░░░░░░░░░░░░░   35.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.92% of changed lines were hand-edited
+🤖 AI-Driven — 99.39% of written lines came from AI
+📝 Concise Prompter — average 402 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.24% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 18:37:35 UTC
+ Last Updated on 04/08/2026 05:26:08 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
