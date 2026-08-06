@@ -60,7 +60,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-532%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -118,7 +118,7 @@ Opus                     10,806 lines        ██████░░░░░�
 ```
 
 
- Last Updated on 05/08/2026 22:09:13 UTC
+ Last Updated on 06/08/2026 01:10:52 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
