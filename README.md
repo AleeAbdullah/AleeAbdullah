@@ -56,11 +56,11 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-553%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-554%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229.34%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,45 +80,45 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               17 hrs 3 mins       ███████████████████░░░░░░   74.57 % 
-Python                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TypeScript               13 hrs 34 mins      ███████████████████░░░░░░   74.85 % 
+Python                   2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🐱‍💻 Projects: 
-hissab                   10 hrs 29 mins      ███████████░░░░░░░░░░░░░░   45.87 % 
-pro-portal-fe            7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-pro-portal-be            2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-flowdexMVP               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-routemate                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+pro-portal-fe            8 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.50 % 
+hissab                   4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+pro-portal-be            2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+flowdexMVP               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+routemate                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 50 mins (91.14%)
+⏱ AI Coding Time: 16 hrs 12 mins (89.41%)
 
-✍️ 27,834 lines written by AI, 209 lines written by hand (99.25% AI-written)
+✍️ 12,325 lines written by AI, 205 lines written by hand (98.36% AI-written)
 
-🔤 581,189,786 Input Tokens, 3,605,501 Output Tokens
+🔤 69,017,512 Input Tokens, 1,824,195 Output Tokens
 
-💵 $1433.93 Estimated AI Cost This Week
+💵 $557.47 Estimated AI Cost This Week
 
-🧠 86 AI Sessions, 458 AI Prompts
+🧠 84 AI Sessions, 435 AI Prompts
 
-GPT                      29,377 lines        █████████████████████████   100.00 % 
+GPT                      13,434 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.25% of written lines came from AI
-📚 Verbose Prompter — average 6,506 characters per prompt
+🤖 AI-Driven — 98.36% of written lines came from AI
+📚 Verbose Prompter — average 6,352 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.05% of changed lines were hand-edited
+🚀 High AI Trust — 2.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 22:15:09 UTC
+ Last Updated on 14/08/2026 00:36:21 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
