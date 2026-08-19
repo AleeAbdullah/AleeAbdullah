@@ -56,17 +56,17 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-974%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-574%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-579%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,498 Contributions in the Year 2026
+> 🏆 1,499 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,45 +80,45 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               24 hrs 11 mins      ████████████████████░░░░░   80.07 % 
-Python                   2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Other                    1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+TypeScript               23 hrs 19 mins      ████████████████████░░░░░   81.30 % 
+Python                   2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            21 hrs 21 mins      ██████████████████░░░░░░░   70.70 % 
-pro-portal-be            3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-hissab                   3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-flowdexMVP               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-realtime-voice-chat-2    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+pro-portal-fe            22 hrs 49 mins      ████████████████████░░░░░   79.58 % 
+pro-portal-be            3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+flowdexMVP               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+realtime-voice-chat-2    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+routemate                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 45 mins (95.21%)
+⏱ AI Coding Time: 27 hrs 12 mins (94.88%)
 
-✍️ 15,615 lines written by AI, 237 lines written by hand (98.5% AI-written)
+✍️ 10,777 lines written by AI, 113 lines written by hand (98.96% AI-written)
 
-🔤 20,542,863 Input Tokens, 3,171,184 Output Tokens
+🔤 16,314,786 Input Tokens, 2,819,258 Output Tokens
 
-💵 $432.56 Estimated AI Cost This Week
+💵 $303.66 Estimated AI Cost This Week
 
-🧠 118 AI Sessions, 893 AI Prompts
+🧠 88 AI Sessions, 896 AI Prompts
 
-GPT                      17,774 lines        █████████████████████████   100.00 % 
+GPT                      12,557 lines        █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.5% of written lines came from AI
-📚 Verbose Prompter — average 6,844 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.14% of changed lines were hand-edited
+🤖 AI-Driven — 98.96% of written lines came from AI
+📚 Verbose Prompter — average 6,980 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 2.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 20:15:27 UTC
+ Last Updated on 19/08/2026 20:33:33 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
