@@ -60,7 +60,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-595%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-263.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -118,7 +118,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/08/2026 20:27:10 UTC
+ Last Updated on 22/08/2026 23:09:35 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
