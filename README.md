@@ -60,11 +60,11 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-669%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-92.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319.88%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.7 MB Used in GitHub's Storage 
+> 📦 2.8 MB Used in GitHub's Storage 
  > 
 > 🏆 1,594 Contributions in the Year 2026
  > 
@@ -120,7 +120,7 @@ Cursor                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/09/2026 01:30:20 UTC
+ Last Updated on 05/09/2026 07:30:31 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
