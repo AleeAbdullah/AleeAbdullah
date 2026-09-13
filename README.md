@@ -60,7 +60,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-699%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-326.27%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-326.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,48 +80,48 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               19 hrs 35 mins      ███████████████░░░░░░░░░░   59.96 % 
-Python                   5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Markdown                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Other                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+TypeScript               17 hrs 5 mins       ████████████████░░░░░░░░░   62.85 % 
+Python                   2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            16 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.35 % 
-pro-portal-be            5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-fitkraft                 4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-hissab                   2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-leavesandlines           2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+pro-portal-fe            13 hrs 43 mins      █████████████░░░░░░░░░░░░   50.46 % 
+fitkraft                 4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+hissab                   2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+pro-portal-be            2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+leavesandlines           2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 34 mins (93.53%)
+⏱ AI Coding Time: 25 hrs 41 mins (94.48%)
 
-✍️ 18,134 lines written by AI, 172 lines written by hand (99.06% AI-written)
+✍️ 17,756 lines written by AI, 156 lines written by hand (99.13% AI-written)
 
-🔤 18,406,091 Input Tokens, 2,208,948 Output Tokens
+🔤 15,241,365 Input Tokens, 1,960,542 Output Tokens
 
-💵 $462.69 Estimated AI Cost This Week
+💵 $419.46 Estimated AI Cost This Week
 
-🧠 116 AI Sessions, 625 AI Prompts
+🧠 103 AI Sessions, 539 AI Prompts
 
-GPT                      15,375 lines        ████████████████████░░░░░   78.80 % 
-Opus                     3,967 lines         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Codex-Vscode             170 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+GPT                      15,001 lines        ████████████████████░░░░░   78.38 % 
+Opus                     3,967 lines         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Codex-Vscode             170 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📄 Detailed Prompter — average 1,010 characters per prompt
+🤖 AI-Driven — 99.13% of written lines came from AI
+📄 Detailed Prompter — average 1,053 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.12% of changed lines were hand-edited
+🚀 High AI Trust — 1.62% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 19:45:07 UTC
+ Last Updated on 13/09/2026 00:37:00 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
