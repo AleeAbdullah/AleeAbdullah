@@ -80,48 +80,43 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               14 hrs 52 mins      ██████████████████░░░░░░░   70.65 % 
-Python                   2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+TypeScript               10 hrs 45 mins      ██████████████████████░░░   87.91 % 
+Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            13 hrs 43 mins      ████████████████░░░░░░░░░   65.21 % 
-pro-portal-be            2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-fitkraft                 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-expo starter             1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-hissab                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+pro-portal-fe            10 hrs 37 mins      ██████████████████████░░░   86.83 % 
+pro-portal-be            1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+fitkraft                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 42 mins (93.66%)
+⏱ AI Coding Time: 11 hrs 26 mins (93.47%)
 
-✍️ 7,683 lines written by AI, 155 lines written by hand (98.02% AI-written)
+✍️ 2,938 lines written by AI, 117 lines written by hand (96.17% AI-written)
 
-🔤 11,222,025 Input Tokens, 1,328,687 Output Tokens
+🔤 6,896,597 Input Tokens, 629,870 Output Tokens
 
-💵 $318.81 Estimated AI Cost This Week
+💵 $207.91 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 428 AI Prompts
+🧠 44 AI Sessions, 277 AI Prompts
 
-GPT                      8,752 lines         ████████████████████████░   97.93 % 
-Codex-Vscode             170 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Opus                     15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,873 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.02% of written lines came from AI
-📄 Detailed Prompter — average 882 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.4% of changed lines were hand-edited
+🤖 AI-Driven — 96.17% of written lines came from AI
+📄 Detailed Prompter — average 728 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 23:23:11 UTC
+ Last Updated on 15/09/2026 02:11:42 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
