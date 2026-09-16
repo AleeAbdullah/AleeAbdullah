@@ -80,43 +80,41 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               10 hrs 45 mins      ██████████████████████░░░   87.91 % 
-Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               8 hrs 27 mins       ███████████████████████░░   91.20 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            10 hrs 37 mins      ██████████████████████░░░   86.83 % 
-pro-portal-be            1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-fitkraft                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+pro-portal-fe            8 hrs 17 mins       ██████████████████████░░░   89.46 % 
+pro-portal-be            58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 26 mins (93.47%)
+⏱ AI Coding Time: 8 hrs 36 mins (92.96%)
 
-✍️ 2,938 lines written by AI, 117 lines written by hand (96.17% AI-written)
+✍️ 1,888 lines written by AI, 81 lines written by hand (95.89% AI-written)
 
-🔤 6,896,597 Input Tokens, 629,870 Output Tokens
+🔤 4,803,128 Input Tokens, 434,202 Output Tokens
 
-💵 $207.91 Estimated AI Cost This Week
+💵 $178.61 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 277 AI Prompts
+🧠 37 AI Sessions, 235 AI Prompts
 
-GPT                      3,873 lines         █████████████████████████   100.00 % 
+GPT                      2,072 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.17% of written lines came from AI
-📄 Detailed Prompter — average 728 characters per prompt
+🤖 AI-Driven — 95.89% of written lines came from AI
+📄 Detailed Prompter — average 758 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.77% of changed lines were hand-edited
+🚀 High AI Trust — 6.41% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 22:05:26 UTC
+ Last Updated on 16/09/2026 08:53:22 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
