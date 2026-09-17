@@ -80,41 +80,20 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               8 hrs 27 mins       ███████████████████████░░   91.20 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pro-portal-fe            8 hrs 17 mins       ██████████████████████░░░   89.46 % 
-pro-portal-be            58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 36 mins (92.96%)
-
-✍️ 1,888 lines written by AI, 81 lines written by hand (95.89% AI-written)
-
-🔤 4,803,128 Input Tokens, 434,202 Output Tokens
-
-💵 $178.61 Estimated AI Cost This Week
-
-🧠 37 AI Sessions, 235 AI Prompts
-
-GPT                      2,072 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.89% of written lines came from AI
-📄 Detailed Prompter — average 758 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 6.41% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/09/2026 22:58:00 UTC
+ Last Updated on 17/09/2026 10:17:12 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
