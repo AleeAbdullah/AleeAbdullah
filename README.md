@@ -56,9 +56,9 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C113%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-707%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-715%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-331.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -74,60 +74,50 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                59093 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-🌆 Daytime                406063 commits      █████████████░░░░░░░░░░░░   52.03 % 
-🌃 Evening                220409 commits      ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-🌙 Night                  94847 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               6 hrs 22 mins       ██████████████████░░░░░░░   70.62 % 
-Python                   2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+TypeScript               15 hrs 26 mins      █████████████████████░░░░   82.07 % 
+Python                   2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            5 hrs 57 mins       ████████████████░░░░░░░░░   65.95 % 
-pro-portal-be            2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Scoopcodes               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-router-monitor           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-resumes                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+pro-portal-fe            14 hrs 47 mins      ████████████████████░░░░░   78.65 % 
+pro-portal-be            2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+resumes                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Scoopcodes               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+portfolio                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 42 mins (85.36%)
+⏱ AI Coding Time: 15 hrs 2 mins (79.99%)
 
-✍️ 1,752 lines written by AI, 124 lines written by hand (93.39% AI-written)
+✍️ 3,557 lines written by AI, 630 lines written by hand (84.95% AI-written)
 
-🔤 5,304,213 Input Tokens, 375,089 Output Tokens
+🔤 9,018,071 Input Tokens, 880,929 Output Tokens
 
-💵 $165.95 Estimated AI Cost This Week
+💵 $190.14 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 147 AI Prompts
+🧠 45 AI Sessions, 261 AI Prompts
 
-GPT                      1,921 lines         █████████████████████████   100.00 % 
+GPT                      4,285 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.39% of written lines came from AI
-📚 Verbose Prompter — average 1,729 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 9.04% of changed lines were hand-edited
+🤖 AI-Driven — 84.95% of written lines came from AI
+📄 Detailed Prompter — average 1,167 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 24.47% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 22:11:08 UTC
+ Last Updated on 29/09/2026 11:26:57 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
