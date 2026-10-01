@@ -60,13 +60,13 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-717%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-304.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-332.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.8 MB Used in GitHub's Storage 
  > 
-> 🏆 1,679 Contributions in the Year 2026
+> 🏆 1,682 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,62 +74,54 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                54406 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-🌆 Daytime                372995 commits      █████████████░░░░░░░░░░░░   51.99 % 
-🌃 Evening                202484 commits      ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-🌙 Night                  87525 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               17 hrs 55 mins      █████████████████████░░░░   83.12 % 
-Python                   2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript               22 hrs              █████████████████████░░░░   85.41 % 
+Python                   2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            17 hrs 16 mins      ████████████████████░░░░░   80.14 % 
-pro-portal-be            2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-resumes                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Scoopcodes               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-portfolio                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+pro-portal-fe            21 hrs 29 mins      █████████████████████░░░░   83.43 % 
+pro-portal-be            2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+resumes                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Scoopcodes               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+portfolio                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 29 mins (81.09%)
+⏱ AI Coding Time: 20 hrs 33 mins (79.77%)
 
-✍️ 3,826 lines written by AI, 668 lines written by hand (85.14% AI-written)
+✍️ 4,403 lines written by AI, 701 lines written by hand (86.27% AI-written)
 
-🔤 10,234,057 Input Tokens, 1,006,717 Output Tokens
+🔤 11,248,673 Input Tokens, 1,148,468 Output Tokens
 
-💵 $250.17 Estimated AI Cost This Week
+💵 $308.99 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 322 AI Prompts
+🧠 58 AI Sessions, 372 AI Prompts
 
-GPT                      4,563 lines         █████████████████████████   100.00 % 
+GPT                      4,809 lines         ███████████████████████░░   91.17 % 
+Opus                     466 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OpenClaw                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.14% of written lines came from AI
-📄 Detailed Prompter — average 1,367 characters per prompt
+🤖 AI-Driven — 86.27% of written lines came from AI
+📄 Detailed Prompter — average 1,387 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 24.28% of changed lines were hand-edited
+🚀 High AI Trust — 22.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 20:16:07 UTC
+ Last Updated on 01/10/2026 01:55:41 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
