@@ -56,11 +56,11 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-763%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-771%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-342.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-343.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,48 +80,48 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               36 hrs 12 mins      ███████████████████░░░░░░   74.74 % 
-Other                    4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Python                   3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Markdown                 2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-JavaScript               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TypeScript               38 hrs 43 mins      ███████████████████░░░░░░   76.90 % 
+Other                    3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Python                   3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Markdown                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+JavaScript               40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            28 hrs 46 mins      ███████████████░░░░░░░░░░   59.37 % 
-hissab                   6 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Scoopcodes               4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-pro-portal-be            3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-fitkraft                 2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+pro-portal-fe            33 hrs 29 mins      █████████████████░░░░░░░░   66.50 % 
+Scoopcodes               4 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+pro-portal-be            3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+hissab                   3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+fitkraft                 2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 1 min (88.82%)
+⏱ AI Coding Time: 44 hrs 18 mins (87.99%)
 
-✍️ 18,101 lines written by AI, 449 lines written by hand (97.58% AI-written)
+✍️ 16,582 lines written by AI, 658 lines written by hand (96.18% AI-written)
 
-🔤 35,041,750 Input Tokens, 4,215,845 Output Tokens
+🔤 33,776,343 Input Tokens, 4,463,352 Output Tokens
 
-💵 $697.10 Estimated AI Cost This Week
+💵 $508.40 Estimated AI Cost This Week
 
-🧠 129 AI Sessions, 727 AI Prompts
+🧠 130 AI Sessions, 750 AI Prompts
 
-GPT                      12,075 lines        ███████████████░░░░░░░░░░   60.16 % 
-Opus                     7,494 lines         █████████░░░░░░░░░░░░░░░░   37.34 % 
-Codex-Vscode             502 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+GPT                      10,546 lines        ██████████████░░░░░░░░░░░   57.05 % 
+Opus                     7,461 lines         ██████████░░░░░░░░░░░░░░░   40.36 % 
+Codex-Vscode             480 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.58% of written lines came from AI
-📄 Detailed Prompter — average 971 characters per prompt
+🤖 AI-Driven — 96.18% of written lines came from AI
+📄 Detailed Prompter — average 908 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 4.15% of changed lines were hand-edited
+🚀 High AI Trust — 6.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 00:45:53 UTC
+ Last Updated on 09/10/2026 11:32:04 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
