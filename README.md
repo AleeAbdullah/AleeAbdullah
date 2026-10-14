@@ -60,7 +60,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-798%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-344.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,6 +74,16 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                48316 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+🌆 Daytime                330650 commits      █████████████░░░░░░░░░░░░   51.79 % 
+🌃 Evening                181017 commits      ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+🌙 Night                  78417 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -121,7 +131,7 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/10/2026 15:11:26 UTC
+ Last Updated on 14/10/2026 18:41:28 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
