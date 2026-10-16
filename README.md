@@ -60,13 +60,13 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-815%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-346.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-117.97%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,772 Contributions in the Year 2026
+> 🏆 1,773 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,7 +121,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/10/2026 17:01:21 UTC
+ Last Updated on 16/10/2026 18:59:40 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
