@@ -56,11 +56,11 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C251%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-835%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-846%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-283.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,64 +74,54 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                49175 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-🌆 Daytime                336290 commits      █████████████░░░░░░░░░░░░   51.75 % 
-🌃 Evening                184282 commits      ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-🌙 Night                  80030 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               34 hrs 10 mins      ██████████████░░░░░░░░░░░   57.54 % 
-Markdown                 9 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Python                   8 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Other                    4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-HTML                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               33 hrs 7 mins       █████████████░░░░░░░░░░░░   51.15 % 
+Python                   10 hrs 55 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Markdown                 9 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Other                    5 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+HTML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🐱‍💻 Projects: 
-pro-portal-fe            46 hrs              ███████████████████░░░░░░   77.45 % 
-pro-portal-be            12 hrs 6 mins       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-hissab                   1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+pro-portal-fe            47 hrs 51 mins      ██████████████████░░░░░░░   73.92 % 
+pro-portal-be            16 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+hissab                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 how-do-i-restart-my-route4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-fitkraft                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+fitkraft                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 27 mins (83.27%)
+⏱ AI Coding Time: 54 hrs 18 mins (83.89%)
 
-✍️ 15,690 lines written by AI, 755 lines written by hand (95.41% AI-written)
+✍️ 17,518 lines written by AI, 855 lines written by hand (95.35% AI-written)
 
-🔤 38,911,542 Input Tokens, 5,166,383 Output Tokens
+🔤 42,374,989 Input Tokens, 5,449,182 Output Tokens
 
-💵 $800.94 Estimated AI Cost This Week
+💵 $959.30 Estimated AI Cost This Week
 
-🧠 82 AI Sessions, 822 AI Prompts
+🧠 90 AI Sessions, 901 AI Prompts
 
-Opus                     11,153 lines        ████████████████░░░░░░░░░   62.42 % 
-GPT                      4,745 lines         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Fable                    1,970 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     13,206 lines        █████████████████░░░░░░░░   66.69 % 
+GPT                      4,625 lines         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Fable                    1,970 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.41% of written lines came from AI
-📄 Detailed Prompter — average 1,185 characters per prompt
+🤖 AI-Driven — 95.35% of written lines came from AI
+📄 Detailed Prompter — average 1,057 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 13.46% of changed lines were hand-edited
+🚀 High AI Trust — 13.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 20:17:07 UTC
+ Last Updated on 20/10/2026 02:07:38 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
