@@ -60,20 +60,30 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-879%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-352.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-352.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,852 Contributions in the Year 2026
+> 🏆 1,873 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                61858 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+🌆 Daytime                425129 commits      █████████████░░░░░░░░░░░░   51.90 % 
+🌃 Evening                232197 commits      ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+🌙 Night                  100002 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -121,7 +131,7 @@ Vscode                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/10/2026 15:10:08 UTC
+ Last Updated on 25/10/2026 18:16:19 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
