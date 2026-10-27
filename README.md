@@ -60,7 +60,7 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-882%20hrs%2041%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-352.93%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-353.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -74,54 +74,8 @@ hobbies: ["Learning New Technologies", "table tennis", "netflix"]
  > 
 > 🔑 14 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-TypeScript               27 hrs 7 mins       █████████████░░░░░░░░░░░░   53.53 % 
-Other                    5 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Python                   5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Markdown                 3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-JavaScript               3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-
-🐱‍💻 Projects: 
-pro-portal-fe            30 hrs 42 mins      ███████████████░░░░░░░░░░   60.61 % 
-fitkraft                 7 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-pro-portal-be            7 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-pascal-home              3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-anatomy-repo-https-github35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 47 hrs 4 mins (92.89%)
-
-✍️ 10,277 lines written by AI, 853 lines written by hand (92.34% AI-written)
-
-🔤 42,404,004 Input Tokens, 4,928,214 Output Tokens
-
-💵 $1427.42 Estimated AI Cost This Week
-
-🧠 97 AI Sessions, 861 AI Prompts
-
-Opus                     7,414 lines         █████████████████░░░░░░░░   68.37 % 
-GPT                      2,737 lines         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-Fable                    693 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 92.34% of written lines came from AI
-📄 Detailed Prompter — average 705 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 11.8% of changed lines were hand-edited
-```
-
-
- Last Updated on 26/10/2026 19:42:53 UTC
+ Last Updated on 27/10/2026 00:33:05 UTC
 <!--END_SECTION:waka-->
 
 ![My GitHub Game](game.gif)
